@@ -24,22 +24,10 @@ I'm a **Backend Laravel Developer** with **3+ years** of experience designing sc
 
 I lead the engineering of **Kahatein**, a live platform bringing transparency to orphan sponsorship in Gaza, and I've taught **100+ students per semester** as a university Teaching Assistant — including fully online throughout the war.
 
-```php
-<?php
-
-class Abeer extends Engineer
-{
-    public string $role      = 'Backend Developer · Technical Lead';
-    public string $location  = 'Gaza, Palestine 🇵🇸';
-    public array  $craft     = ['Laravel', 'REST APIs', 'Multi-tenancy', 'Queues', 'CI/CD'];
-    public array  $research  = ['Arabic NLP', 'Retrieval & RAG', 'Machine Learning'];
-    public array  $education = [
-        'M.Sc. Data Science — IUG (GPA 94.9%)',
-        'B.Sc. Software Development — IUG (GPA 95.09%, Cum Laude)',
-    ];
-    public string $motto     = 'Build software that actually changes lives.';
-}
-```
+- 🔭 **Currently building:** Kahatein — orphan sponsorship platform for Gaza
+- 🌱 **Researching:** Arabic NLP, Retrieval & RAG, Machine Learning
+- ⚡ **Core craft:** Laravel · REST APIs · Multi-tenancy · Queues · CI/CD
+- 📫 **Reach me:** [abeermosameh@gmail.com](mailto:abeermosameh@gmail.com)
 
 ---
 
