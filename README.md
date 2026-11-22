@@ -151,7 +151,7 @@ Research on Arabic natural-language processing and retrieval, with a focus on so
 | 🧩 **Co-founder & Technical Lead** | Kahatein · Gaza | Present |
 | ⚙️ **Backend Laravel Developer – API** | Sadeim Company · Gaza | Dec 2025 – Feb 2026 |
 | ☁️ **Backend Laravel Developer – API** | Konin Cloud · Beirut | Aug 2023 – Oct 2025 |
-| 🎓 **Teaching Assistant** (Web 1 · Web 2 · Python Labs) | Islamic University of Gaza | Sep 2023 – May 2025 |
+| 🎓 **Teaching Assistant** (Web 1 · Web 2 · Python Labs · Database) | Islamic University of Gaza | Sep 2023 – May 2025 |
 | 🏫 **Backend Laravel Developer** (Training) | AccessLine Company | Sep 2022 – Dec 2022 |
 | 🧪 **Quality Assurance** (Training) | Hexa Company | Dec 2021 – May 2022 |
 
