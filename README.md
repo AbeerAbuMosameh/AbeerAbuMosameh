@@ -161,7 +161,7 @@ Research on Arabic natural-language processing and retrieval, with a focus on so
 
 - 🎓 **M.Sc. in Data Science** — Islamic University of Gaza · GPA **94.9%** · *Expected Dec 2026*
 - 🎓 **B.Sc. in Software Development** — Islamic University of Gaza · GPA **95.09%**, *Cum Laude* · 2023
-- 🏆 **Best Graduation Project Award** — Islamic University of Gaza, 2023
+- 🏆 **Distinguished Graduation Project** — Islamic University of Gaza, 2023
 - 🌟 **Gaza Stars 2026** — Entrepreneurship & Innovation Track (GlocalShift × UCAS Tech Incubator)
 - 🤝 **Wasla Connect Mentorship** — Spring 2026, one-on-one technical mentorship
 - 🤖 **Machine Learning Essentials** — Gaza Sky Geeks (60 hours)
