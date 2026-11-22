@@ -186,7 +186,7 @@ Research on Arabic natural-language processing and retrieval, with a focus on so
 
 <p align="center">
   <i>“Engineering with purpose — from Gaza, for the world.”</i><br/>
-  <i>To be a maker rather than a passive observer.</i>
+  <i>To be a change maker, not a passive observer.</i>
 </p>
 
 <p align="center">
