@@ -1,3 +1,7 @@
+<p align="center" dir="rtl">
+  <b>اللهم علّمنا ما ينفعنا، وانفعنا بما علّمتنا، وزدنا علمًا</b>
+</p>
+
 <!-- ============ HEADER ============ -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A2A41,100:AA8058&height=210&section=header&text=Abeer%20Abu%20Mosameh&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Backend%20Engineer%20%E2%80%A2%20Laravel%20%E2%80%A2%20Data%20Science%20%E2%80%A2%20AI&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Abeer Abu Mosameh"/>
@@ -181,7 +185,8 @@ Research on Arabic natural-language processing and retrieval, with a focus on so
 ---
 
 <p align="center">
-  <i>“Engineering with purpose — from Gaza, for the world.”</i>
+  <i>“Engineering with purpose — from Gaza, for the world.”</i><br/>
+  <i>To be a maker rather than a passive observer.</i>
 </p>
 
 <p align="center">
